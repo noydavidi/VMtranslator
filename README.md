@@ -14,6 +14,7 @@ The following example shows the translation from a VM file to an ASM file:
 
 ![image](https://github.com/noydavidi/VMtranslator/assets/77931201/15d0507f-e5de-4e17-9b7d-151189745856)
 
+
 ```
 @17
 D=A
