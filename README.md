@@ -12,7 +12,7 @@ handling the eight memory segments described in chapter 7 of the textbook.
 
 The following example shows the translation from a VM file to an ASM file:
 
-![image](https://github.com/noydavidi/VMtranslator/assets/77931201/15d0507f-e5de-4e17-9b7d-151189745856)
+![image](https://github.com/noydavidi/VMtranslator/assets/77931201/2d1568c4-8a7a-455c-bc0e-3cba49bbb116)
 
 
 ```
